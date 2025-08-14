@@ -1,8 +1,16 @@
 #reload countrycolors
 
-KUR = {
+WSU = {
 	color = rgb { 82 2 15 }
 	color_ui = rgb { 82 2 15 }	
+}
+CHI = {
+	color = rgb { 9 79 155 }
+	color_ui = rgb { 9 79 155 }
+}
+KOR = {
+	color = rgb { 64 196 255 }
+	color_ui = rgb { 64 196 255 }
 }
 ##################################
 GER = {
@@ -146,10 +154,7 @@ CAN = {
 	color = rgb { 233  59  59 }
 	color_ui = rgb { 155 62 51 }
 }
-CHI = {
-	color = hsv { 0.18 0.6 0.9 } #255 244 190
-	color_ui = hsv { 0.18 0.3 0.9 }
-}
+
 CHL = {
 	color = rgb { 155 101 107 }
 	color_ui = rgb { 202 131 139 }
@@ -468,10 +473,7 @@ PAK = {
 #    color = rgb { 120 150 80 }
 #    color_ui = rgb { 150 180 120 }
 #}
-KOR = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255 248 229 }	
-}
+
 ISR = {
 	color = rgb { 152  130  191 }
 	color_ui = rgb { 152  130  191 }
