@@ -12,7 +12,8 @@ state = {
 
 	history = {
 
-		owner = GER
+		owner = POL
+		add_core_of = POL
 		add_core_of = GER
 		add_core_of = SIL
 		add_core_of = PRE
@@ -34,12 +35,7 @@ state = {
 			air_base = 6
 		}
 
-		1939.1.1 = {
-			buildings = {
-				air_base = 10
-				arms_factory = 3
-				industrial_complex = 3
-			}
+
 		}
 	}
 
