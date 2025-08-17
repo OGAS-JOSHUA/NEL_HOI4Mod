@@ -1,0 +1,4 @@
+spriteTypes = {
+	name = "GFX_Chinese_july_strom"
+	texturefile = "gfx/event_pictures/july_strom.dds"
+}
