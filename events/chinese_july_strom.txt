@@ -1,0 +1,20 @@
+add_namespace = chinese
+#开局的七月风暴事件
+country_event{
+	id = chinse.start
+	title = chinese.start.t
+	desc = chinese.start.d
+	picture = GFX_Chinese_july_strom
+
+	is_trigger_only = yes
+	trigger = {
+		date = 2026.7.15
+	}
+	option = {
+		#我，莫得选择
+		name = chinese.start.1
+		ai_chance = {
+			factor = 1
+		}
+	}
+}
