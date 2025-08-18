@@ -3873,8 +3873,8 @@
 		texturefile = "gfx/event_pictures/news_event_ENG_middle_eastern_conflict.dds"
 	}
 	spriteType = {
-		name = "GFX_chinese_july_strom"
-		texturefile = "gfx/event_pictures/july_strom.png"
+		name = "GFX_chinese_july_storm"
+		texturefile = "gfx/event_pictures/july_storm.png"
 	}
 
 }
