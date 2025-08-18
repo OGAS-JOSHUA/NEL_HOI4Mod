@@ -1,18 +1,18 @@
-add_namespace = chinese
+add_namespace = china_political_events
 #开局的七月风暴事件
-country_event{
-	id = chinse.start
-	title = chinese.start.t
-	desc = chinese.start.d
-	picture = GFX_Chinese_july_strom
+news_event = {
+	id = china_political_events.1
+	title = china_political_events.1.t
+	desc = china_political_events.1.d
+	picture = GFX_chinese_july_strom
 
 	is_trigger_only = yes
 	trigger = {
-		date = 2026.7.15
+		date = 2026.7.16
 	}
 	option = {
 		#我，莫得选择
-		name = chinese.start.1
+		name = china_political_events.1.1
 		ai_chance = {
 			factor = 1
 		}
