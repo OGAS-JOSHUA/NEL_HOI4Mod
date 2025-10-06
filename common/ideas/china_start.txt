@@ -1,0 +1,24 @@
+ideas = {
+	country = {
+		CHI_Collapse_of_Prosperity = {
+			picture = chi_hyper_inflation
+			name = CHI_Collapse_of_Prosperity
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.10
+			}
+
+
+		}
+	}
+}
