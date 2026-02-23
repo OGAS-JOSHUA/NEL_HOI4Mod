@@ -1,0 +1,2 @@
+WSU = "countries/Worker_Student_Union.txt"
+RUS = "countries/Russia.txt"

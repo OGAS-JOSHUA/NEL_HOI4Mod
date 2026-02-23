@@ -1,0 +1,20 @@
+add_namespace = china_political_events
+#开局的七月风暴事件
+news_event = {
+	id = china_political_events.1
+	title = china_political_events.1.t
+	desc = china_political_events.1.d
+	picture = GFX_chinese_july_storm
+
+	is_trigger_only = yes
+	trigger = {
+		date = 2026.7.16
+	}
+	option = {
+		#我，莫得选择
+		name = china_political_events.1.1
+		ai_chance = {
+			factor = 1
+		}
+	}
+}
